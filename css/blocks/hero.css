@@ -2,7 +2,7 @@
     padding: 300px 0 50px;
     margin: 0 0 100px;
     background-color: #222222;
-    background-image: url("/images/img/hero-banner.jpeg");
+    background-image: url("../../images/img/hero-banner.jpeg");
     background-repeat: no-repeat;
     background-position: top right;
     background-size: 48% 100%;
@@ -33,7 +33,7 @@
     }
 
     .hero .container {
-        background-image: url("/images/img/hero-banner.jpeg");
+        background-image: url("../../images/img/hero-banner.jpeg");
         background-repeat: no-repeat;
         background-position: top right;
         background-size: 48% 100%;
