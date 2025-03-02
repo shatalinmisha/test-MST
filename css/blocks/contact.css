@@ -1,0 +1,134 @@
+.contact {
+    margin: 0 0 100px;
+}
+
+.contact__wrapper {
+    position: relative;
+    border-radius: 24px;
+    background-color: #FFFFFF;
+    padding: 70px 134px;
+    background-image: url("/images/img/forma-bg.png");
+    background-repeat: no-repeat;
+    background-size: 60% 100%;
+    background-position: bottom right;
+}
+
+@media (max-width: 1700px) {
+    .contact__wrapper {
+        padding: 50px 100px;
+    }
+}
+
+@media (max-width: 1400px) {
+    .contact__wrapper {
+        padding: 40px 50px;
+    }
+}
+
+@media (max-width: 1023px) {
+    .contact__wrapper {
+        padding: 40px 30px;
+    }
+}
+
+@media (max-width: 767px) {
+    .contact__wrapper {
+        padding: 20px;
+        background-size: 60% 80%;
+    }
+}
+
+.contact__title {
+    font-family: "Prata", "Times New Roman", serif;
+    font-weight: 400;
+    font-size: 54px;
+    line-height: 59px;
+    max-width: 400px;
+    margin: 0 0 45px;
+    color: #38535D;
+}
+
+@media (max-width: 1023px) {
+    .contact__title {
+        font-size: 35px;
+        line-height: 42px;
+        margin: 0 0 35px;
+    }
+}
+
+@media (max-width: 767px) {
+    .contact__title {
+        font-size: 28px;
+        line-height: 42px;
+        margin: 0 0 20px;
+    }
+}
+
+.contact-form__group {
+    border: none;
+    padding: 0;
+    margin: 0;
+}
+
+.contact-form__inner {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin: 0 0 26px;
+}
+
+.contact-form__btn {
+    width: 780px;
+    padding: 32px;
+    border: 2px solid transparent;
+    border-radius: 4px;
+    align-items: center;
+    background-color: #405D65;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+    user-select: none;
+    text-transform: uppercase;
+    transition: border 1s linear, background-color 0.7s linear, color 0.5s linear;
+}
+
+@media (max-width: 1700px) {
+    .contact-form__btn {
+        width: 550px;
+    }
+}
+
+@media (max-width: 1400px) {
+    .contact-form__btn {
+        padding: 20px;
+        font-size: 18px;
+        line-height: 36px;
+    }
+}
+
+@media (max-width: 1023px) {
+    .contact-form__btn {
+        width: 400px;
+        padding: 15px;
+        font-size: 16px;
+        line-height: 30px;
+    }
+}
+
+@media (max-width: 767px) {
+    .contact-form__btn {
+        width: 100%;
+        padding: 12px;
+        font-size: 14px;
+    }
+}
+
+.contact-form__btn:hover,
+.contact-form__btn:focus-visible {
+    border: 2px solid #405D65;
+    background-color: transparent;
+    color: #405D65;
+}

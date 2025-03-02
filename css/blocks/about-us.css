@@ -1,0 +1,162 @@
+.about-us {
+    margin: 0 0 100px;
+}
+
+.about-us__wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+@media (max-width: 1023px) {
+    .about-us__wrapper {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 767px) {
+    .about-us__wrapper {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+.about-us__img {
+    width: 100%;
+    min-height: 740px;
+    height: 100%;
+}
+
+@media (max-width: 1700px) {
+    .about-us__img {
+        min-height: 570px;
+    }
+}
+
+@media (max-width: 1023px) {
+    .about-us__img--opacity {
+        display: none;
+    }
+}
+
+
+.about-us__inner {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 53px 53px 0;
+}
+
+@media (max-width: 1700px) {
+    .about-us__inner {
+        padding: 50px 30px 0;
+    }
+}
+
+.about-us__list {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+
+}
+
+.about-us__item {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 0 0 40px;
+    margin: 0 0 40px;
+    border-bottom: 1px solid #55565A;
+}
+
+@media (max-width: 1700px) {
+    .about-us__item {
+        padding: 0 0 30px;
+    }
+}
+
+.about-us__img-suc {
+    width: 58px;
+    height: 47px;
+}
+
+@media (max-width: 1700px) {
+    .about-us__img-suc {
+        width: 48px;
+        height: 37px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .about-us__img-suc {
+        width: 38px;
+        height: 27px;
+    }
+}
+
+
+.about-us__text {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 33px;
+    margin: 0;
+}
+
+@media (max-width: 1700px) {
+    .about-us__text {
+        font-size: 22px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .about-us__text {
+        font-size: 18px;
+    }
+}
+
+.about-us__btn {
+    width: 100%;
+    padding: 32px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.04em;
+    text-align: center;
+    margin: auto 0 0;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: box-shadow 0.5s linear;
+    animation: rotateHead 0s linear alternate infinite;
+}
+
+@media (max-width: 1200px) {
+    .about-us__btn {
+        padding: 24px;
+        font-size: 18px;
+        font-weight: 400;
+    }
+}
+
+@media (max-width: 1023px) {
+    .about-us__btn {
+        padding: 14px;
+        font-size: 16px;
+        font-weight: 400;
+    }
+}
+
+.about-us__btn:hover,
+.about-us__btn:focus-visible {
+    box-shadow: -5px 20px 25px #FFFFFF;
+    animation: rotateHead 1s linear alternate infinite;
+}
+
+@keyframes rotateHead {
+    0% {
+        transform: rotate(-10deg);
+    }
+
+    100% {
+        transform: rotate(10deg);
+    }
+}

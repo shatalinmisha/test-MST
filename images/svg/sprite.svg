@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+
+    <symbol id="icon-successus" viewBox="0 0 39 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <g clip-path="url(#clip0_14022_6)">
+            <path
+                d="M36 19C36 28.665 28.165 36.5 18.5 36.5C8.83502 36.5 1 28.665 1 19C1 9.33502 8.83502 1.5 18.5 1.5C28.165 1.5 36 9.33502 36 19Z"
+                stroke="currentColor" stroke-width="2" />
+            <path
+                d="M36.093 13.2722C35.569 11.6616 34.832 10.1483 33.9125 8.76562L17.7188 25.6324L17.7513 27.5095L18.5157 27.5046L36.093 13.2722Z"
+                fill="currentColor" />
+            <path
+                d="M39 6.5C38.7631 5.27238 36.5 4.5001 36.5 4.5001C36.0497 4.05499 33.4503 6.55569 33 7.0008L18.073 22.5005L11.5 15.0005C11.049 14.5554 9.95066 14.0554 9.5 14.5005L7.36115 15.9298C6.91087 16.3745 6.91087 17.096 7.36115 17.5408L17.1214 27.1834C17.3815 27.4405 17.7341 27.5441 18.073 27.5041C18.4119 27.5437 18.7646 27.4405 19.0247 27.1834L37.0296 9.39449C37.4799 8.94938 39.2591 7.84266 39 6.5Z"
+                fill="currentColor" />
+            <path
+                d="M19.0243 27.182L37.0292 9.39313C38.5 8.49972 39.4503 6.94483 39 6.49972C38.5497 6.05461 36.4909 7.24972 36.4909 7.24972L17.9698 25.4667L7.76964 15.524L7.36116 15.9281C6.91087 16.3728 6.91087 17.0943 7.36116 17.5391L17.121 27.182C17.3811 27.4391 17.7337 27.5427 18.0727 27.5028C18.4116 27.5427 18.7642 27.4395 19.0243 27.182Z"
+                fill="currentColor" />
+        </g>
+        <defs>
+            <clipPath id="clip0_14022_6">
+                <rect width="39" height="37" fill="currentColor" transform="translate(0 0.5)" />
+            </clipPath>
+        </defs>
+    </symbol>
+    <symbol id="icon-tick" viewBox="0 0 10 10" fill="none"
+        xmlns="http://www.w3.org/2000/svg">
+        <g clip-path="url(#clip0_4_239)">
+            <path
+                d="M9.85356 1.47453C9.65831 1.27926 9.34175 1.27926 9.14645 1.47453L3.15614 7.4649L0.853564 5.16233C0.658311 4.96705 0.341748 4.96707 0.146455 5.16233C-0.0488184 5.35758 -0.0488184 5.67414 0.146455 5.86942L2.80259 8.52551C2.99778 8.72076 3.31458 8.72063 3.5097 8.52551L9.85356 2.18164C10.0488 1.98639 10.0488 1.66981 9.85356 1.47453Z"
+                fill="currentColor" />
+        </g>
+        <defs>
+            <clipPath id="clip0_4_239">
+                <rect width="10" height="10" fill="currentColor" />
+            </clipPath>
+        </defs>
+    </symbol>
+    <symbol id="icon-insta" viewBox="0 0 32 32" fill="none"
+        xmlns="http://www.w3.org/2000/svg">
+        <g clip-path="url(#clip0_65_1272)">
+            <path
+                d="M21.332 5.33203H10.6654C7.71985 5.33203 5.33203 7.71985 5.33203 10.6654V21.332C5.33203 24.2775 7.71985 26.6654 10.6654 26.6654H21.332C24.2775 26.6654 26.6654 24.2775 26.6654 21.332V10.6654C26.6654 7.71985 24.2775 5.33203 21.332 5.33203Z"
+                stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" />
+            <path
+                d="M16 20C18.2091 20 20 18.2091 20 16C20 13.7909 18.2091 12 16 12C13.7909 12 12 13.7909 12 16C12 18.2091 13.7909 20 16 20Z"
+                stroke="#D5C9BE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M22 10V10.001" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" />
+        </g>
+        <defs>
+            <clipPath id="clip0_65_1272">
+                <rect width="32" height="32" fill="currentColor" />
+            </clipPath>
+        </defs>
+    </symbol>
+    <symbol id='icon-tiktok' viewBox="0 0 32 32" fill="none"
+        xmlns="http://www.w3.org/2000/svg">
+        <g clip-path="url(#clip0_65_1273)">
+            <path
+                d="M12.0013 15.9987C10.9465 15.9987 9.91533 16.3115 9.03826 16.8975C8.1612 17.4836 7.47761 18.3165 7.07395 19.2911C6.67028 20.2656 6.56466 21.3379 6.77045 22.3725C6.97624 23.4071 7.48419 24.3574 8.23007 25.1033C8.97595 25.8491 9.92626 26.3571 10.9608 26.5629C11.9954 26.7687 13.0677 26.6631 14.0423 26.2594C15.0168 25.8557 15.8498 25.1721 16.4358 24.2951C17.0218 23.418 17.3346 22.3869 17.3346 21.332V5.33203C17.3346 7.10014 18.037 8.79583 19.2873 10.0461C20.5375 11.2963 22.2332 11.9987 24.0013 11.9987"
+                stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" />
+        </g>
+        <defs>
+            <clipPath id="clip0_65_1273">
+                <rect width="32" height="32" fill="currentColor" />
+            </clipPath>
+        </defs>
+    </symbol>
+    <symbol id="icon-linkedin" viewBox="0 0 32 32" fill="none"
+        xmlns="http://www.w3.org/2000/svg">
+        <g clip-path="url(#clip0_65_1274)">
+            <path
+                d="M23.9987 5.33203H7.9987C6.52594 5.33203 5.33203 6.52594 5.33203 7.9987V23.9987C5.33203 25.4715 6.52594 26.6654 7.9987 26.6654H23.9987C25.4715 26.6654 26.6654 25.4715 26.6654 23.9987V7.9987C26.6654 6.52594 25.4715 5.33203 23.9987 5.33203Z"
+                stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" />
+            <path d="M10.668 14.668V21.3346" stroke="currentColor" stroke-width="2"
+                stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M10.668 10.668V10.6813" stroke="currentColor" stroke-width="2"
+                stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M16 21.3346V14.668" stroke="currentColor" stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round" />
+            <path
+                d="M21.3333 21.3346V17.3346C21.3333 16.6274 21.0524 15.9491 20.5523 15.449C20.0522 14.9489 19.3739 14.668 18.6667 14.668C17.9594 14.668 17.2811 14.9489 16.781 15.449C16.281 15.9491 16 16.6274 16 17.3346"
+                stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" />
+        </g>
+        <defs>
+            <clipPath id="clip0_65_1274">
+                <rect width="32" height="32" fill="currentColor" />
+            </clipPath>
+        </defs>
+    </symbol>
+    <symbol id="icon-fb" viewBox="0 0 32 32" fill="none"
+        xmlns="http://www.w3.org/2000/svg">
+        <g clip-path="url(#clip0_65_1275)">
+            <path
+                d="M9.33203 13.3333V18.6667H13.332V28H18.6654V18.6667H22.6654L23.9987 13.3333H18.6654V10.6667C18.6654 10.313 18.8058 9.97391 19.0559 9.72386C19.3059 9.47381 19.6451 9.33333 19.9987 9.33333H23.9987V4H19.9987C18.2306 4 16.5349 4.70238 15.2847 5.95262C14.0344 7.20286 13.332 8.89856 13.332 10.6667V13.3333H9.33203Z"
+                stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" />
+        </g>
+        <defs>
+            <clipPath id="clip0_65_1275">
+                <rect width="32" height="32" fill="currentColor" />
+            </clipPath>
+        </defs>
+    </symbol>
+    <symbol id="icon-telegram" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <g clip-path="url(#clip0_65_1276)">
+            <path
+                d="M20 13.332L14.6667 18.6654L22.6667 26.6654L28 5.33203L4 14.6654L9.33333 17.332L12 25.332L16 19.9987"
+                stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" />
+        </g>
+        <defs>
+            <clipPath id="clip0_65_1276">
+                <rect width="32" height="32" fill="currentColor" />
+            </clipPath>
+        </defs>
+    </symbol>
+    <symbol id="icon-youtube" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <g clip-path="url(#clip0_65_1277)">
+            <path
+                d="M22.6667 6.66797H9.33333C6.38781 6.66797 4 9.05578 4 12.0013V20.0013C4 22.9468 6.38781 25.3346 9.33333 25.3346H22.6667C25.6122 25.3346 28 22.9468 28 20.0013V12.0013C28 9.05578 25.6122 6.66797 22.6667 6.66797Z"
+                stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+            <path d="M13.332 12L19.9987 16L13.332 20V12Z" stroke="currentColor" stroke-width="2"
+                stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+        <defs>
+            <clipPath id="clip0_65_1277">
+                <rect width="32" height="32" fill="currentColor" />
+            </clipPath>
+        </defs>
+    </symbol>
+</svg>

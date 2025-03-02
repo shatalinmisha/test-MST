@@ -1,0 +1,56 @@
+.custom-input {
+    width: 780px;
+    display: flex;
+    flex-direction: column;
+}
+
+@media (max-width: 1700px) {
+    .custom-input {
+        width: 550px;
+    }
+}
+
+@media (max-width: 1023px) {
+    .custom-input {
+        width: 400px;
+    }
+}
+
+@media (max-width: 767px) {
+    .custom-input {
+        width: 100%;
+    }
+}
+
+.custom-input__field {
+    border: 2px solid #D6D6D6;
+    border-radius: 4px;
+    color: #55565A;
+    background-color: transparent;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    padding: 15px 38px;
+    font-family: inherit;
+    cursor: pointer;
+}
+
+@media (max-width: 1023px) {
+    .custom-input__field {
+        font-size: 18px;
+        padding: 10px 20px;
+    }
+}
+
+@media (max-width: 767px) {
+    .custom-input__field {
+        font-size: 16px;
+        line-height: 28px;
+        padding: 5px 20px;
+    }
+}
+
+.custom-input__field:hover,
+.custom-input__field:focus-visible {
+    border: 2px solid #38535D;
+}
